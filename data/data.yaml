@@ -1,0 +1,12 @@
+names:
+- glow
+- not glow
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: street-light-data-sample
+  url: https://universe.roboflow.com/yolov5-lw9t6/street-light-data-sample/dataset/1
+  version: 1
+  workspace: yolov5-lw9t6
+train: /content/drive/MyDrive/street light data sample/train/images
+val: /content/drive/MyDrive/street light data sample/valid/images
